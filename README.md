@@ -14,9 +14,25 @@
 
 
 <div align="center" >
-  <a href="https://github.com/Giovane-Richard-Xavier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanerichard&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanerichard&layout=compact&langs_count=7&theme=gruvbox"/>
+  <a href="https://github.com/GiovaneRichard">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=giovanerichard&show_icons=true&theme=gruvbox"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=giovanerichard&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=giovanerichard&show_icons=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=giovanerichard&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanerichard&layout=compact&langs_count=7&theme=gruvbox"/>
+  </picture>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -48,6 +64,6 @@
   <a href = "mailto:giovanerichard@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovane-richard-b44427254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/giovane-richard-xavier/giovane-richard-xavier/blob/output/github-contribution-grid-snake.svg)
- 
+  ![Snake animation](https://github.com/GiovaneRichard/GiovaneRichard/blob/output/github-contribution-grid-snake.svg)
+
 </div>
