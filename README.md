@@ -7,7 +7,7 @@
   Tenho domínio em bancos de dados relacionais e não relacionais, garantindo a eficiência e a segurança das aplicações. Busco sempre criar soluções robustas e escaláveis, proporcionando uma ótima experiência para o usuário. Comprometo-me a entregar projetos de alta qualidade, 
   seguindo prazos e requisitos definidos. Sou aberto a novos desafios e estou continuamente em busca de aprimoramento profissional. </br></br>
   
-  - 🌱 Atualmente trabalho como CTO e Dev na RLV Tecnologia, atuando no Desenvolvimento e manutenção Web - PHP Laravel | ReactJS: Next js | Node: Nest js | Javascript | TypeScript | DB: Postgres, mysql. Faço uso de diversas outras tecnologias no dia a dia da empresa.
+  - 🌱 Atualmente trabalho como CTO e Software Engineer na RLV Tecnologia, atuando no Desenvolvimento e manutenção Web - PHP Laravel | ReactJS: Next js | Node: Nest js | Javascript | TypeScript | DB: Postgres, mysql. Faço uso de diversas outras tecnologias no dia a dia da empresa.
   <!-- - 👯 Aperfeiçoando meu conhecimento de forma prática com Front: React/Next js e Back: Node/Nest js, entre diversas outras skills, -->
 </div>
 
