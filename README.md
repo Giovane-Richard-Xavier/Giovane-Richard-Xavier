@@ -5,7 +5,7 @@
 
 Tenho domínio em bancos de dados relacionais e não relacionais, garantindo eficiência e segurança. Busco sempre soluções robustas e escaláveis, com ótima experiência para o usuário. Comprometo-me com a entrega de projetos de alta qualidade, dentro dos prazos e requisitos definidos, aberto a novos desafios e sempre em constante aprimoramento.
 
-🌱 Atualmente sou CTO e Engenheiro de Software na RLV Tecnologia, atuando com PHP/Laravel, ReactJS/Next.js, Node/Nest.js, TypeScript, JavaScript e bancos como PostgreSQL e MySQL.
+🌱 Atualmente sou CTO e Engenheiro de Software na RLV Tecnologia, atuando com ReactJS/Next.js, Node/Nest.js, PHP/Laravel, TypeScript, JavaScript e bancos como PostgreSQL e MySQL.
 </div>
 
 ---
