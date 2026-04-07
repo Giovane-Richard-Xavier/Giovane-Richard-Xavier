@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o Giovane Richard
 
 <div style="text-align: justify; margin-bottom: 1rem;">
-🔭 Sou bacharel em Ciência da Computação e atualmente atuo como Engenheiro de Software, focado no desenvolvimento Web. Tenho experiência sólida em aplicações modernas, com foco em boas práticas e desempenho.
+🔭 Sou bacharel em Ciência da Computação e atualmente atuo como Engenheiro de Software, focado no desenvolvimento Full-Stack. Tenho experiência sólida em aplicações modernas, com foco em boas práticas e desempenho.
 
 Tenho domínio em bancos de dados relacionais e não relacionais, garantindo eficiência e segurança. Busco sempre soluções robustas e escaláveis, com ótima experiência para o usuário. Comprometo-me com a entrega de projetos de alta qualidade, dentro dos prazos e requisitos definidos, aberto a novos desafios e sempre em constante aprimoramento.
 
