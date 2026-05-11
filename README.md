@@ -82,7 +82,7 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
 
 ---
 
-## 📫 Contato
+## 📫 Social
 
 <div align="center">
   <a href="https://www.youtube.com/user/giovanerichard171/videos"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
