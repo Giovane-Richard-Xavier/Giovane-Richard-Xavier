@@ -41,8 +41,6 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
 
 ## 🛠 Tecnologias que utilizo
 
-## 🛠 Tecnologias que utilizo
-
 <p align="center">
   <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Java" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -54,13 +52,17 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
   <img alt="PHP" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="C++" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img alt="TypeScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="Node.js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Node.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="Next.js" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img alt="Laravel" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+  <img alt="Laravel" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
 </p>
 
 <p align="right">
-  <img alt="Perfil" height="150" src="https://freepngimg.com/thumb/star_wars/9-2-star-wars-jedi-png.png">
+  <img
+    alt="Perfil"
+    height="150"
+    src="https://freepngimg.com/thumb/star_wars/9-2-star-wars-jedi-png.png"
+  >
 </p>
 
 ---
