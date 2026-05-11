@@ -9,8 +9,23 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
 </div>
 
 ---
+## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Giovane-Richard-Xavier&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-Richard-Xavier&layout=compact&langs_count=8&theme=gruvbox&cache_seconds=1800"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- <div align="center">
   <!-- GitHub Stats Card -->
   <picture>
     <source
@@ -35,7 +50,7 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-Richard-Xavier&layout=compact&langs_count=7&theme=gruvbox" alt="Top Languages" />
   </picture>
-</div>
+</div> -->
 
 ---
 
