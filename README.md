@@ -25,7 +25,7 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
   />
 </p>
 
-<!-- <div align="center">
+<div align="center">
   <!-- GitHub Stats Card -->
   <picture>
     <source
@@ -50,7 +50,7 @@ Tenho domínio em bancos de dados relacionais e não relacionais, garantindo efi
     />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-Richard-Xavier&layout=compact&langs_count=7&theme=gruvbox" alt="Top Languages" />
   </picture>
-</div> -->
+</div>
 
 ---
 
